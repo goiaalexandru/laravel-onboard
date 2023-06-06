@@ -1,5 +1,5 @@
 {
-  "name": "wfeller/laravel-onboard",
+  "name": "hrdrv/laravel-onboard",
   "description": "Track onboarding steps for users when they get setup in your app.",
   "license": "MIT",
   "authors": [
@@ -10,6 +10,10 @@
     {
       "name": "William",
       "homepage": "https://github.com/wfeller"
+    },
+    {
+      "name": "Kevin Ullyott",
+      "email": "https://github.com/Orrison"
     }
   ],
   "require": {
